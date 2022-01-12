@@ -1,0 +1,29 @@
+body{
+  background-color: #00FFFF;
+}
+h1{
+  color:purple;
+  border:3px;
+  border-color:darkgreen;
+  border-style:groove;
+  margin-right: 450px ;
+}
+hr {
+ background-color: black;
+ border-style: none ;
+ height: 3px;
+}
+#about {
+  background-color: pink ;
+  padding : 0px 0px 0px 600px ;
+}
+#Beginner{
+  color:green;
+}
+#hobby{
+  color:red;
+}
+#name {
+  padding : 0px 0px 0px 600px
+  margin-right : 600px;
+}
